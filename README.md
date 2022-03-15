@@ -6,7 +6,7 @@ I am Egor and I am a beginner Frontend developer 💻 A few words about my activ
 
 * 🔭 I finished 10 months course [Web-Developer by Yandex Practicum](https://practicum.yandex.ru/web/). It gave me basic knowledges and teach how to learn next by myself. I liked it and now think about taking on the role of assistant for the next students in the future.
 
-* 🔥 At this moment I train codewars tasks, learn math and algorithms to improve my O(n) <a href="https://www.codewars.com/users/proehavshiynapravo">
+* 🔥 Nowadays, I am training codewars tasks, learning math and algorithms to improve my O(n) <a href="https://www.codewars.com/users/proehavshiynapravo">
   <img src="https://www.codewars.com/users/proehavshiynapravo/badges/micro"><a/>
 
 * 👯 I have the team work experience at Yandex.Praktikum in the role of Frontend developer on ['Lubimovka' Project](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend).
