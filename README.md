@@ -4,7 +4,7 @@ I am Egor and I am a beginner Frontend developer 💻 A few words about my activ
 
 * 🌱 I know that being a good developer requires a lot of work, time and patience. As a result, my kaizen strategy of diving into dev sounds like **`"Little steps everyday lead to great progress in the future"`**.
 
-* 🔭 I finished 10 months course [Web-Developer by Yandex Practicum](https://practicum.yandex.ru/web/). It gave me basic knowledges and teach how to learn next by myself. I liked it and now think about taking on the role of assistant for the next students in the future.
+* 🔭 I have completed a 10 months course [Web-Developer by Yandex Practicum](https://practicum.yandex.ru/web/). It gave me basic knowledges and taught how to learn next by myself. I liked it and now think about taking on the role of assistant for the next students in the future.
 
 * 🔥 Nowadays, I am training codewars tasks, learning math and algorithms to improve my O(n) <a href="https://www.codewars.com/users/proehavshiynapravo">
   <img src="https://www.codewars.com/users/proehavshiynapravo/badges/micro"><a/>
