@@ -17,28 +17,38 @@ I am Egor and I am a beginner Frontend developer 💻 A few words about my activ
 
 ### 🏹 Commonly used and studied Languages and Tools:
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="30" height="30"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="30" height="30"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="React" width="30" height="30"/>
+  </a> 
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="30" height="30"/>
+  </a> 
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue" width="30" height="30"/>
+  </a> 
+  <a href="https://vuex.vuejs.org/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="Vuex" width="30" height="30"/>
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="30" height="30"/>
+  </a>
   <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://cryptologos.cc/logos/html-coin-html-logo.png" alt="HTML" width="30" height="30"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://icon-library.com/images/css-xxl_10573.png" alt="CSS" width="30" height="30"/>
   </a>
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="30" height="30"/>
+  <a href="https://sass-lang.com/styleguide/brand" target="_blank"> 
+    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="30" height="30"/>
   </a>
   <a href="https://webpack.js.org/" target="_blank"> 
-    <img src="https://coollogo.net/wp-content/uploads/2021/03/Webpack-logo.svg" alt="Webpack" width="30" height="30"/>
+    <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="Webpack" width="30" height="30"/>
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
   </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://www.cloudanalogy.co.uk/wp-content/uploads/2019/06/react.png" alt="React" width="33" height="30"/>
-  </a> 
-  <a href="https://sass-lang.com/styleguide/brand" target="_blank"> 
-    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="30" height="30"/>
-  </a>
   <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://devstickers.com/assets/img/pro/kh7x.png" alt="Node.js" width="30" height="30"/>
   </a>
@@ -48,20 +58,25 @@ I am Egor and I am a beginner Frontend developer 💻 A few words about my activ
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://fc01.deviantart.net/fs70/f/2010/168/e/1/Icon_MongoDB_by_xkneo.png" alt="MongoDB" width="30" height="30"/>
   </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo.png" alt="Ubuntu" width="35" height="30"/>
-  </a> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   </a> 
 </p>
 
-### 🛠️ Other Languages and Tools that I want to learn in the near future:
+### 🛠️ Other Languages and Tools that are in progress:
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="30" height="30"/>
  </a>
  <a href="https://nextjs.org/" target="_blank"> 
   <img src="https://icedevera.com/images/skills/frontEnd/next.png" alt="Next.js" width="30" height="30"/>
+</a>
+</a>
+ <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"> 
+  <img src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" width="30" height="30"/>
+</a>
+</a>
+ <a href="https://jestjs.io/docs/getting-started" target="_blank"> 
+  <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="Jest" width="30" height="30"/>
 </a>
 
 ### 📫 My Contacts:
